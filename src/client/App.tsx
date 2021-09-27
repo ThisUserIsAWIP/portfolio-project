@@ -23,7 +23,7 @@ const App = (props: AppProps) => {
 				<Navbar />
 				<Switch>
 				<div className="min-vh-100 container d-flex justify-content-center align-items-center" style={{
-			backgroundImage: "url(" + "https://i.imgur.com/o83VNjS.gif" + ")",
+			backgroundImage: "url(" + "https://i.imgur.com/KSjbJjH.png" + ")",
 			backgroundPosition: 'center center',
 			backgroundSize: 'cover',
 			backgroundRepeat: 'no-repeat',
